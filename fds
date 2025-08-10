@@ -1,0 +1,164 @@
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory
+[1mdiff --git a/README-template.md b/README-template.md[m
+[1mdeleted file mode 100644[m
+[1mindex 2f26ade..0000000[m
+[1m--- a/README-template.md[m
+[1m+++ /dev/null[m
+[36m@@ -1,110 +0,0 @@[m
+[31m-# Frontend Mentor - Four card feature section solution[m
+[31m-[m
+[31m-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. [m
+[31m-[m
+[31m-## Table of contents[m
+[31m-[m
+[31m-- [Overview](#overview)[m
+[31m-  - [The challenge](#the-challenge)[m
+[31m-  - [Screenshot](#screenshot)[m
+[31m-  - [Links](#links)[m
+[31m-- [My process](#my-process)[m
+[31m-  - [Built with](#built-with)[m
+[31m-  - [What I learned](#what-i-learned)[m
+[31m-  - [Continued development](#continued-development)[m
+[31m-  - [Useful resources](#useful-resources)[m
+[31m-- [Author](#author)[m
+[31m-- [Acknowledgments](#acknowledgments)[m
+[31m-[m
+[31m-**Note: Delete this note and update the table of contents based on what sections you keep.**[m
+[31m-[m
+[31m-## Overview[m
+[31m-[m
+[31m-### The challenge[m
+[31m-[m
+[31m-Users should be able to:[m
+[31m-[m
+[31m-- View the optimal layout for the site depending on their device's screen size[m
+[31m-[m
+[31m-### Screenshot[m
+[31m-[m
+[31m-![](./screenshot.jpg)[m
+[31m-[m
+[31m-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.[m
+[31m-[m
+[31m-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. [m
+[31m-[m
+[31m-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.[m
+[31m-[m
+[31m-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**[m
+[31m-[m
+[31m-### Links[m
+[31m-[m
+[31m-- Solution URL: [Add solution URL here](https://your-solution-url.com)[m
+[31m-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)[m
+[31m-[m
+[31m-## My process[m
+[31m-[m
+[31m-### Built with[m
+[31m-[m
+[31m-- Semantic HTML5 markup[m
+[31m-- CSS custom properties[m
+[31m-- Flexbox[m
+[31m-- CSS Grid[m
+[31m-- Mobile-first workflow[m
+[31m-- [React](https://reactjs.org/) - JS library[m
+[31m-- [Next.js](https://nextjs.org/) - React framework[m
+[31m-- [Styled Components](https://styled-components.com/) - For styles[m
+[31m-[m
+[31m-**Note: These are just examples. Delete this note and replace the list above with your own choices**[m
+[31m-[m
+[31m-### What I learned[m
+[31m-[m
+[31m-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.[m
+[31m-[m
+[31m-To see how you can add code snippets, see below:[m
+[31m-[m
+[31m-```html[m
+[31m-<h1>Some HTML code I'm proud of</h1>[m
+[31m-```[m
+[31m-```css[m
+[31m-.proud-of-this-css {[m
+[31m-  color: papayawhip;[m
+[31m-}[m
+[31m-```[m
+[31m-```js[m
+[31m-const proudOfThisFunc = () => {[m
+[31m-  console.log('🎉')[m
+[31m-}[m
+[31m-```[m
+[31m-[m
+[31m-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.[m
+[31m-[m
+[31m-**Note: Delete this note and the content within this section and replace with your own learnings.**[m
+[31m-[m
+[31m-### Continued development[m
+[31m-[m
+[31m-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.[m
+[31m-[m
+[31m-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**[m
+[31m-[m
+[31m-### Useful resources[m
+[31m-[m
+[31m-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.[m
+[31m-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.[m
+[31m-[m
+[31m-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**[m
+[31m-[m
+[31m-## Author[m
+[31m-[m
+[31m-- Website - [Add your name here](https://www.your-site.com)[m
+[31m-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)[m
+[31m-- Twitter - [@yourusername](https://www.twitter.com/yourusername)[m
+[31m-[m
+[31m-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**[m
+[31m-[m
+[31m-## Acknowledgments[m
+[31m-[m
+[31m-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.[m
+[31m-[m
+[31m-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**[m
+[1mdiff --git a/README.md b/README.md[m
+[1mindex b8c412e..95ee6f8 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,91 +1,53 @@[m
+[31m-# Frontend Mentor - Four card feature section[m
+[32m+[m[32m# Frontend Mentor - Four card feature section solution[m
+ [m
+[31m-![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)[m
+[32m+[m[32mThis is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.[m[41m [m
+ [m
+[31m-## Welcome! 👋[m
+[32m+[m[32m## Table of contents[m
+ [m
+[31m-Thanks for checking out this front-end coding challenge.[m
+[32m+[m[32m- [Overview](#overview)[m
+[32m+[m[32m  - [The challenge](#the-challenge)[m
+[32m+[m[32m  - [Screenshot](#screenshot)[m
+[32m+[m[32m  - [Links](#links)[m
+[32m+[m[32m- [My process](#my-process)[m
+[32m+[m[32m  - [Built with](#built-with)[m
+[32m+[m[32m  - [What I learned](#what-i-learned)[m
+[32m+[m[32m- [Author](#author)[m
+ [m
+[31m-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.[m
+ [m
+[31m-**To do this challenge, you need a basic understanding of HTML and CSS.**[m
+[32m+[m[32m## Overview[m
+ [m
+[31m-## The challenge[m
+[32m+[m[32m### The challenge[m
+ [m
+[31m-Your challenge is to build out this feature section and get it looking as close to the design as possible.[m
+[31m-[m
+[31m-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.[m
+[31m-[m
+[31m-Your users should:[m
+[32m+[m[32mUsers should be able to:[m
+ [m
+ - View the optimal layout for the site depending on their device's screen size[m
+ [m
+[31m-Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.[m
+[31m-[m
+[31m-## Where to find everything[m
+[31m-[m
+[31m-Your task is to build out the project to the designs inside the 
